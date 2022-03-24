@@ -1,0 +1,15 @@
+# Build settings
+markdown:  kramdown
+permalink: pretty
+plugins:
+  - jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Site settings
+title: Werner Moraes - Software Engineer
+email: wernerpm@gmail.com
+description: Ramblings about my life
+baseurl: "/marmitas.en/"
+url: "https://wernermoraes.com"
+twitter_username: wernerpm
+github_username: wernerpm
