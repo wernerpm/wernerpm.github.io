@@ -12,3 +12,9 @@ description: Ramblings about my life
 url: "https://wernermoraes.com"
 twitter_username: wernerpm
 github_username: wernerpm
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-2B85LY1CCT"
+    anonymize_ip: false # default
