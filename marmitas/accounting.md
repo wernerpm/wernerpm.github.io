@@ -1,9 +1,10 @@
 ---
-permalink: /marmitas/accounting/
+permalink: /accounting.html
+layout: posts
 ---
 
-# Accounting
+# Contabilidade
 
-This is meant to serve as an accountability measure for the people who donated to our initiative, plus to decide what to do with the remaining funds.
+Esta página é para servir como prestação de contas para todos que doaram à nossa iniciativa, além de decidir o que fazer com o restante da verba.
 
-Coming soon.
+Em construção

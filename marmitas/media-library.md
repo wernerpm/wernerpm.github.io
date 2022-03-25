@@ -1,7 +1,8 @@
 ---
-permalink: /media-library/
+permalink: /media-library.html
+layout: posts
 ---
 
-# Media Library
+# Biblioteca de mídia
 
-Coming soon.
+Em construção

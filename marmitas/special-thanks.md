@@ -1,7 +1,8 @@
 ---
-permalink: /marmitas/special-thanks/
+permalink: /special-thanks.html
+layout: posts
 ---
 
-# Special Thanks
+# Agradecimentos especiais
 
-Coming soon.
+Em construção

@@ -1,40 +1,43 @@
 ---
-permalink: /marmitas.pt/
+permalink: /index.html
+layout: posts
 ---
 
-# How we cooked 5.000 hot meals for Ukrainian refugees
+[🇬🇧 Read English version](english.html)
 
-## Intro
+# Como cozinhamos 5.000 refeições quentes para refugiados ucranianos 🇺🇦
 
-As many know by now, the invasion of Ukraine by Russia has been causing immense pain and suffering for the people of Ukraine, having displaced over 10 million people so far, 3 million of which have fled the country (as of March 23rd, 2022). They have moved mostly to neighbouring countries like Romania, Hungary, Moldova, Belarus, Russia, but mainly Poland, which has received the bulk of incoming refugees, and a small percentage of these end up in Western Europe or the rest of the world. Being such a big city with a well connected train station, Berlin is a main hub for the people coming from Poland who want venture further in the west. Many of the arriving families are travelling by train, carrying only what they are able to in a small suitcase, a backpack, a supermarket bag, or even arriving with only the clothes on their backs, for several days, and without a warm meal (or any meal at all).
+## Introdução
 
-## Humble Beginnings
+Como muitos já sabem, a invasão da Ucrânia pela Rússia vem causando imensa dor e sofrimento ao povo da Ucrânia, tendo deslocado mais de 10 milhões de pessoas até agora, 3 milhões das quais fugiram do país (em 23 de março de 2022). Eles se mudaram principalmente para países vizinhos como Romênia, Hungria, Moldávia, Bielorrússia, Rússia, mas principalmente Polônia, que recebeu a maior parte dos refugiados, e uma pequena porcentagem deles acaba na Europa Ocidental ou no resto do mundo. Sendo uma cidade tão grande com uma estação central de trem bem conectada, Berlim é um hub principal para as pessoas que vêm da Polônia que querem se aventurar mais no oeste. Muitas das famílias que chegam estão viajando de trem, carregando apenas o que podem em uma pequena mala, mochila, sacola de supermercado, ou mesmo chegando apenas com a roupa do corpo, por vários dias, e sem uma refeição quente (ou às vezes qualquer refeição).
 
-When seeing these scenes so close to us, my wife [Daiane](https://www.instagram.com/masbahalemoa/) got word from social media that bringing warm meals to them would be a good idea. We had some disposable containers at home, a couple kilos of lentils, legumes and vegetables, spices, which she gathered and started cooking. We brought the first batch of around 40 lentil soup portions to the central station, noticed it was very welcome, and immediately decided we could and should do a bit more. During lunch, we reached to a couple of Whatsapp groups to ask for donations from friends, thinking we would gather a couple hundred euros and bring in the vicinity of a hundred meals a day, but (oh boy!) we were mistaken. The fundraiser immediately exploded, and we noticed something much bigger was coming our way, we had many food, material, appliances, and cash donations right away, as well as people offering their time and effort to work. Some neighbours of ours were detrimental to bootstrap the whole operation as well, introducing us to people in the food industry from the neighbourhood, and even joining us to deliver the second batch of the first day, of around 40 soups, on a cargo bycicle.
+## Origens humildes
 
-## Quick Expansion
+Ao ver essas cenas tão perto de nós, minha esposa [Daiane](https://www.instagram.com/masbahalemoa/) ouviu falar pelas mídias sociais que trazer refeições quentes para eles seria uma boa ideia. Tínhamos alguns recipientes descartáveis em casa, alguns quilos de lentilhas, legumes e verduras, temperos, que ela juntou e começou a cozinhar. Trouxemos o primeiro lote de cerca de 40 porções de sopa de lentilha para a estação central, notamos que era muito bem-vindo e imediatamente decidimos que poderíamos e deveríamos fazer um pouco mais. Durante o almoço, conversamos em alguns grupos de Whatsapp para pedir doações de amigos, pensando em juntar algumas centenas de euros e trazer cerca de cem refeições por dia, mas (eita!) estávamos enganados. A arrecadação de fundos explodiu imediatamente e percebemos que algo muito maior estava vindo em nossa direção, tivemos imediatamente muitas doações de alimentos, materiais, eletrodomésticos e dinheiro, além de pessoas oferecendo seu tempo e esforço para trabalhar.
 
-On the second day, a neighbour lent us a big 30 liter cooker, a neighbouring cafe ([Zazza Cafe Moabit](https://www.instagram.com/zazza_moabit)) helped me to get inside a Wholesale supermarket for our first big purchase using the donatives, while people started cooking at our house. These first few folks helping with the cooking ended up being the managerial core of the group, arranging shifts of helpers from morning to evening, to produce huge amounts of lentil soup throughout the following days. After 80 soups were delivered in the first day, we jumped to 400 in the second. After cleaning up the vegetable and lentil sections in the neighbouring supermarkets, we asked for the awesome people at the Zazza Cafe to help us by making a purchase at the Wholesale supermarket again, they did so, but donated everything to our initiative, not accepting payment :heart:
+## Expansão Rápida
 
-## The Volunteer Welcoming Commitee
+No segundo dia, um vizinho nos emprestou uma grande panela elétrica de 30 litros, um café vizinho ([Zazza Cafe Moabit](https://www.instagram.com/zazza_moabit)) me ajudou a entrar em um supermercado Atacado para nossa primeira grande compra com os donativos, enquanto as pessoas começaram a cozinhar em nossa casa. Essas primeiras pessoas ajudando na cozinha acabaram sendo o núcleo gerencial do grupo, organizando turnos de ajudantes da manhã à noite, para produzir grandes quantidades de sopa de lentilha nos dias seguintes. Depois que 80 sopas foram entregues no primeiro dia, saltamos para 400 no segundo. E depois de limpar as seções de legumes e lentilhas nos supermercados vizinhos, pedimos para as pessoas incríveis do Zazza Café nos ajudarem fazendo uma compra no supermercado Atacado novamente, eles o fizeram, mas doaram tudo para nossa iniciativa, não aceitando pagamento 💛💙
 
-The welcoming committee in the Berlin Central Station was entirely formed by volunteers, and, same as our operation, was very chaotic in the beginning, but was quickly getting organised. What was only a couple of tables and people in the first day, became a huge operation with hundreds of volunteers ready to welcome the refugee families around the clock, providing food, supplies, and anything people would need when arriving to a new country after a long trip.
+## O Comitê Voluntário de boas-vindas
 
-## Coming to Stability
+O comitê de boas-vindas na Estação Central de Berlim era inteiramente formado por voluntários e, assim como nossa operação, foi muito caótico no início, mas foi se organizando rapidamente. O que eram apenas algumas mesas e pessoas no primeiro dia, tornou-se uma grande operação com centenas de voluntários prontos para receber as famílias refugiadas 24 horas por dia, fornecendo comida, suprimentos e tudo o que as pessoas precisassem ao chegar a um novo país depois de um longa viagem.
 
-We quickly noticed that a larger amount of food would be very welcome, and prepared an operation to produce 4 deliveries of around 200 soups per day (we never did so, but we were ready to do so on a short notice). When things got stable, I would wake up and start cooking at 7 in the morning for a first delivery at 10am, and people would take over for following deliveries at 2pm, 6pm and 10pm, but, as things got organised and more volunteers and restaurants started bringing food to the Central Station besides us, on most days we were able to skip one of these deliveries, stabilising at around 700 portions daily. At the end we had three 30 liter pots cooking all throughout the day, line cooks chopping vegetables from 9am to 9pm, quickly migrating to packing the soups when ready and delivering them in huge boxes by car (when we had volunteer drivers) or using Uber when nobody was available.
+## Chegando à estabilidade
 
-In the eighth day (March 10th), we got word that the Berlin Senate would be taking over the welcoming committee and that all the volunteers would not be needed anymore, which would give us the Friday to rest and regroup, planning the next steps, as we imagined our cooking would be welcome somewhere else besides the welcoming committee. All the incoming refugees had to stay somewhere, right? And a warm lentil soup might be welcome, even though not always in the same place. On Friday March 11th, the catering left the central station, and an urgent request for food was placed in the volunteer communication channels, we immediately resumed the operations and were able to deliver some 600 soups on that day, even though we started later.
+Percebemos rapidamente que uma quantidade maior de comida seria muito bem-vinda e preparamos uma operação para produzir 4 entregas de cerca de 200 sopas por dia (nunca fizemos, mas estávamos prontos para fazê-lo em pouco tempo). A partir do terceiro dia, eu acordava e começava a cozinhar às 7 da manhã para uma primeira entrega às 10 da manhã, e as pessoas tomavam conta para acompanhar as entregas às 14h, 18h e 22h, mas à medida que as coisas se organizavam e mais voluntários e restaurantes começaram a trazer comida para a Estação Central além de nós, na maioria dos dias conseguimos pular uma dessas entregas, estabilizando em cerca de 700 porções diárias. No final estávamos com três panelas de 30 litros cozinhando ao longo do dia, cozinheiros de linha cortando legumes das 9h às 21h, migrando rapidamente para embalar as sopas quando prontas e entregá-las em caixas enormes, de carro (quando tínhamos motoristas voluntários) ou usar Uber quando nenhum motorista estava disponível.
 
-## The End
+No oitavo dia (10 de março), recebemos a notícia de que o Senado de Berlim assumiria o comitê de boas-vindas e que todos os voluntários não seriam mais necessários, o que nos daria a sexta-feira para descansar e nos reagrupar, planejando os próximos passos, como imaginávamos que nossa cozinha seria bem-vinda em outro lugar além do comitê de boas-vindas. Todos os refugiados que chegavam tinham que ficar em algum lugar, certo? E uma sopa de lentilha quentinha pode ser bem vinda, embora nem sempre no mesmo lugar. Na sexta-feira 11 de março, o catering abandonou a estação central, e um pedido urgente de comida foi colocado nos canais de comunicação dos voluntários, retomamos imediatamente as operações e conseguimos entregar cerca de 600 sopas naquele dia, embora tenhamos começado mais tarde.
 
-Daiane and I were quickly reaching our physical and psychological limits at that point. Cooking at our house took a huge toll on our daily routine, house chores, my work and mainly, on our son, who was missing our company and attention. We had the offer to move our operation to an industrial kitchen at a nearby church, from a Brazilian Priest who worked at a Portuguese-speaking catholic congregation, moved the entire operation there in the following Monday (March 14th), and started cooking in this new location on Tuesday (March 15th). We had contacts of people who were still needing warm meals, but we were producing too much, and noticed that a big scale operation like ours was not ideal. There was much trouble to deliver the soups cooked on that day, and it was almost by a miracle that we hadn't thrown a big batch of around 100 soups to the trash. Apparently all the refugee centers were organised enough so that they had enough food for everyone.
+## O fim
 
-At the moment we still have the cooking operation in stand-by, with some non-perishable ingredients, materials and equipment in the local church, ready to resume if we see our cooking is welcome anywhere (even if not for Ukrainian refugees), but German bureaucracy is stopping us to make progress in that sense. This is not necessarily bad news, it means that the professionals took over and that the volunteers can take a break and go back to their regular lives.
+Daiane e eu estávamos rapidamente atingindo nossos limites físicos e psicológicos naquele momento. Cozinhar em nossa casa prejudicou muito o nosso dia a dia, as tarefas domésticas, o meu trabalho e, principalmente, o nosso filho, que estava sentindo falta da nossa companhia e atenção. Recebemos a oferta de mudar nossa operação para uma cozinha industrial em uma igreja próxima, de um padre brasileiro que trabalhava em uma congregação católica de língua portuguesa. Mudamos toda a operação para lá na segunda-feira seguinte (14 de março), e começamos a cozinhar nesta novo local na terça-feira (15 de março). Tínhamos contatos de pessoas que ainda precisavam de refeições quentes, mas estávamos produzindo demais, e percebemos que uma operação em grande escala como a nossa não era o ideal. Houve muita dificuldade para entregar as sopas preparadas naquele dia, e foi quase por um milagre que não jogamos no lixo uma grande quantidade de cerca de 100 sopas.
 
-## News
+Neste momento ainda temos a operação em pausa, com alguns ingredientes não perecíveis, materiais e equipamentos na igreja local, prontos para retomar se virmos que a nossa comida for bem-vinda em algum lugar (mesmo que não seja para refugiados ucranianos), mas a burocracia alemã está nos impedindo de avançar nesse sentido. Isso não é necessariamente uma má notícia, significa que os profissionais assumiram e que os voluntários podem fazer uma pausa e voltar às suas vidas normais.
 
-We made it to the news in Brazil. Having such a large body of people ready to help, obviously some of them would have contacts in news outlets, and many of them were eager to talk about our little operation. It all helped to spread the word, gather more people to the cause, donatives, but our main objective by talking to these Brazilian news outlets was not to make our names seen, but to try and inspire others to do a similar thing, in whatever length possible. There are people in need in all parts of the world, and helping them doesn't need to be hard, a simple lentil soup can go a long way in making somebody feel loved.
+## Notícias
+
+Chegamos aos noticiários no Brasil. Tendo um corpo tão grande de pessoas prontas para ajudar, obviamente alguns deles teriam contatos em agências de notícias, e muitos deles estavam ansiosos para falar sobre nossa pequena operação. Tudo ajudou a divulgar, juntar mais gente para a causa, doadores, mas nosso principal objetivo ao conversar com esses veículos brasileiros não era fazer nossos nomes serem vistos, mas tentar inspirar outros a fazerem algo parecido, de qualquer forma possível. Existem pessoas necessitadas em todas as partes do mundo, e ajudá-las não precisa ser difícil, uma simples sopa de lentilhas pode ajudar muito a fazer alguém se sentir amado.
 
 * [Jornal NH](https://www.jornalnh.com.br/noticias/mundo/2022/03/10/casal-da-regiao-que-vive-em-berlim-mobiliza-brasileiros-para-ajudar-refugiados-da-guerra-na-ucrania.html)
 * [TNH1](https://www.tnh1.com.br/noticia/nid/na-alemanha-alagoana-se-emociona-ao-ajudar-refugiados-da-guerra-da-ucrania-chegam-morrendo-de-fome/)
@@ -44,24 +47,57 @@ We made it to the news in Brazil. Having such a large body of people ready to he
 * [Record News](https://player.r7.com/video/i/6227f08cca9084e951000be9)
 * [Bom dia Rio Grande](https://globoplay.globo.com/v/10375027/?s=0s)
 
-## Media Library
+## Receita
 
-[Media Library](media-library.pt.html)
+Para todos aqui que ficaram curiosos e gostariam de experimentar a nossa receita, é uma sopa de lentilha vegana, muito nutritiva, cheia de proteínas e vitaminas.
 
-## Accounting
+Rende 70 a 75 porções de 450ml
 
-[Accounting (in Portuguese)](accounting.pt.html)
+#### Ingredientes
 
-## Special Thanks
+* 1kg de cebolas cortadas em cubos
+* 0,5 kg de pimentão em cubos (cores misturadas ou apenas vermelho)
+* 2 kg de batatas fatiadas (tamanho de mordidas)
+* 2 kg de cenouras fatiadas (tamanho de mordidas)
+* 1 kg de tomate em conserva pré-picado
+* 4,5 kg de lentilhas verdes
+* Água para cobrir
 
-[Special Thanks](special-thanks.pt.html)
+* Duas colheres de sopa generosas de tomilho seco
+* Duas colheres de sopa generosas de cominho em pó
+* Uma colher de sopa de pimenta preta em pó
+* Sal, para temperar
+* Óleo vegetal para refogar
 
-## Future
+#### Instruções
 
-With all of these able hands ready to work and help, it would be a shame to stop there, we'll keep trying our best to continue the project, cooking for whomever is needing a warm meal in their bellies, being of Ukrainian origin, or from anywhere else in the world.
+* Refogue as cebolas e os pimentões no óleo vegetal por alguns minutos, até ficarem macios, mas ainda úmidos
+* Misture os tomates enlatados e as especiarias
+* Mude para a grande panela
+* Junte as batatas e as cenouras, cubra com água, espere ferver
+* Adicione as lentilhas
+* Cozinhe por uma hora, adicione água quente quando necessário
+* Verifique as especiarias e sal, regule ao seu gosto
+* Servir
 
-## Legacy
+## Biblioteca de mídia
 
-We heard a couple of heartwarming stories throughout the days, like how our soup was very good and welcome, the refugees and even volunteers really liked it, and it would even be preferred compared to the professional catering, but a very simple but strong story from the very last delivery day stuck with most of us. Some of the incoming refugees had a proper mobile connection and were in touch with each other on the way to Berlin, through social media and Telegram groups. We were told that some of them would arrive to the Berlin Central Station asking for the Lentil soup from the Brazilians, which was apparently a big sensation.
+[Biblioteca de mídia](media-library.html)
 
-We all hope that peace will come soon, and that all of these families can return safely home for their regular lives, which might include rebuilding, and it might be anything but regular for quite some time. But, in ten, twenty or even fifty years time, someone will remember about that warm lentil soup that was welcoming them when arriving at Berlin, and that gives me comfort that we were able to do our tiny little part in the whole effort for peace and relief.
+## Contabilidade
+
+[Contabilidade](accounting.html)
+
+## Agradecimentos especiais
+
+[Agradecimentos especiais](special-thanks.html)
+
+## Futuro
+
+Com todas essas mãos habilidosas prontas para trabalhar e ajudar, seria uma pena parar por aí. Continuaremos dando o nosso melhor para continuar o projeto, cozinhando para quem está precisando de uma refeição quentinha na barriga, sendo de origem ucraniana, ou de qualquer outro lugar do mundo.
+
+## Legado
+
+Ouvimos algumas histórias emocionantes ao longo dos dias, como nossa sopa era muito boa e bem-vinda, os refugiados e até voluntários gostaram muito, e até a preferiam em comparação com o catering profissional. Mas uma história muito simples, mas forte, do último dia de entrega marcou a maioria de nós. Alguns dos refugiados que chegavam tinham uma conexão móvel decente e estavam em contato uns com os outros a caminho de Berlim, por meio de mídias sociais e grupos do Telegram. Nos contaram que alguns deles chegavam à Estação Central de Berlim pedindo a sopa de lentilhas dos brasileiros, que aparentemente foi uma grande sensação.
+
+Todos esperamos que a paz chegue em breve e que todas essas famílias possam voltar para casa em segurança para suas vidas normais, o que pode incluir reconstrução, e pode ser tudo menos normal por um bom tempo. Mas, daqui a dez, vinte ou mesmo cinquenta anos, alguém se lembrará daquela sopa quente de lentilhas que os recebeu ao chegar a Berlim, e isso me conforta que fizemos nossa pequena parte em todo o esforço pela paz.

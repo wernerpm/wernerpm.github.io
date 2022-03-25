@@ -6,10 +6,10 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site settings
-title: Werner Moraes - Software Engineer
+title: Werner Moraes
 email: wernerpm@gmail.com
 description: Ramblings about my life
-baseurl: "/marmitas.en/"
+baseurl: "/marmitas"
 url: "https://wernermoraes.com"
 twitter_username: wernerpm
 github_username: wernerpm
