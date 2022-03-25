@@ -9,7 +9,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: Werner Moraes
 email: wernerpm@gmail.com
 description: Ramblings about my life
-baseurl: "/marmitas"
 url: "https://wernermoraes.com"
 twitter_username: wernerpm
 github_username: wernerpm
