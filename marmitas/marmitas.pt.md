@@ -1,9 +1,9 @@
 ---
-permalink: /index.html
+permalink: /marmitas.html
 layout: posts
 ---
 
-[🇬🇧 Read English version](english.html)
+[🇬🇧 Read English version](marmitas.en.html)
 
 # Como cozinhamos 5.000 refeições quentes para refugiados ucranianos 🇺🇦
 

@@ -1,9 +1,9 @@
 ---
-permalink: /english.html
+permalink: /marmitas.en.html
 layout: posts
 ---
 
-[🇧🇷 Ler versão em português](index.html)
+[🇧🇷 Ler versão em português](marmitas.html)
 
 # How we cooked 5.000 hot meals for Ukrainian refugees 🇺🇦
 
