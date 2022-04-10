@@ -196,8 +196,8 @@ Esta página é para servir como prestação de contas para todos que doaram à 
 | 2022-03-04 | Pizza | 48,40 | |
 | 2022-03-04 | Uber | 6,11 | |
 | 2022-03-04 | Uber | 5,00 | |
-| 2022-03-04 | Gilberto | 200,00 | Doação outra iniciativa |
-| 2022-03-04 | Amanda | 150,00 | Doação outra iniciativa |
+| 2022-03-04 | Doação outra iniciativa | 200,00 | |
+| 2022-03-04 | Doação outra iniciativa | 150,00 | |
 | 2022-03-04 | Hamberger | 774,22 | |
 | 2022-03-04 | Netto | 14,16 | |
 | 2022-03-05 | Pizza | 66,00 | |
@@ -215,7 +215,7 @@ Esta página é para servir como prestação de contas para todos que doaram à 
 | 2022-03-07 | Netto | 12,34 | |
 | 2022-03-07 | Eurogida | 270,00 | |
 | 2022-03-08 | Rewe | 43,05 | |
-| 2022-03-09 | Amanda | 300,00 | Doação outra iniciativa |
+| 2022-03-09 | Doação outra iniciativa | 300,00 | |
 | 2022-03-09 | Uber | 5,00 | |
 | 2022-03-09 | Uber | 5,00 | |
 | 2022-03-09 | Uber | 5,29 | |
@@ -224,7 +224,7 @@ Esta página é para servir como prestação de contas para todos que doaram à 
 | 2022-03-09 | Uber | 5,00 | |
 | 2022-03-09 | Metro | 370,00 | |
 | 2022-03-09 | Netto | 26,66 | Comida + Ingredientes |
-| 2022-03-09 | Jeni | 80,00 | Parking + Gas |
+| 2022-03-09 | Estacionamento + Gasolina | 80,00 | |
 | 2022-03-09 | Netto | 16,67 | |
 | 2022-03-09 | Amazon | 179,70 | Colheres |
 | 2022-03-10 | Pizza | 33,00 | |
@@ -246,14 +246,14 @@ Esta página é para servir como prestação de contas para todos que doaram à 
 | 2022-03-15 | Uber | 14,16 | |
 | 2022-03-15 | BVG | 9,40 | |
 | 2022-03-15 | Metro | 160,00 | Igreja |
-| 2022-03-15 | Mari | 60,00 | Parking + Gas |
+| 2022-03-15 | Estacionamento + Gasolina | 60,00 | |
 | 2022-03-16 | Vinho | 69,90 | Reposição adega |
 | 2022-03-18 | Uber | 11,24 | |
 | 2022-03-18 | Uber | 2,00 | |
 | 2022-03-18 | Woolworth | 30,00 | Lençois |
 | 2022-03-19 | BVG | 9,40 | |
 | 2022-03-22 | Netto | 32,28 | |
-| 2022-03-31 | Werner | 200,00 | Auxílio Luz + Nebenkosten |
+| 2022-03-31 | Auxílio Luz + Nebenkosten | 200,00 | |
 | 2022-04-06 | Lidl | 62,00 | |
 | **Total** | | **4464,74** | |
 
