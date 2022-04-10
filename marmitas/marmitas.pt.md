@@ -80,6 +80,23 @@ Rende 70 a 75 porções de 450ml
 * Verifique as especiarias e sal, regule ao seu gosto
 * Servir
 
+## Números da Produção
+
+| Data | Refeições |
+|------|-------|
+| 2022-03-03 | 86 |
+| 2022-03-04 | 415 |
+| 2022-03-05 | 596 |
+| 2022-03-06 | 411 |
+| 2022-03-07 | 703 |
+| 2022-03-08 | 675 |
+| 2022-03-09 | 680 |
+| 2022-03-10 | 645 |
+| 2022-03-11 | 418 |
+| 2022-03-15 | 260 |
+| 2022-04-08 | 302 |
+| **Total** | **5.191** |
+
 ## Biblioteca de mídia
 
 [Biblioteca de mídia](media-library.html)
@@ -88,16 +105,24 @@ Rende 70 a 75 porções de 450ml
 
 [Contabilidade](accounting.html)
 
-## Agradecimentos especiais
-
-[Agradecimentos especiais](special-thanks.html)
-
 ## Futuro
 
 Com todas essas mãos habilidosas prontas para trabalhar e ajudar, seria uma pena parar por aí. Continuaremos dando o nosso melhor para continuar o projeto, cozinhando para quem está precisando de uma refeição quentinha na barriga, sendo de origem ucraniana, ou de qualquer outro lugar do mundo.
+
+## Atualização (abril de 2022)
+
+Há um centro em Berlim chamado Moabit Hilft, que hospeda várias famílias de refugiados ucranianos, e eles nos disseram que cerca de 600 porções semanais de sopa seriam bem-vindas lá. Então, voltamos a cozinhar a partir de sexta-feira, 8 de abril.
 
 ## Legado
 
 Ouvimos algumas histórias emocionantes ao longo dos dias, como nossa sopa era muito boa e bem-vinda, os refugiados e até voluntários gostaram muito, e até a preferiam em comparação com o catering profissional. Mas uma história muito simples, mas forte, do último dia de entrega marcou a maioria de nós. Alguns dos refugiados que chegavam tinham uma conexão móvel decente e estavam em contato uns com os outros a caminho de Berlim, por meio de mídias sociais e grupos do Telegram. Nos contaram que alguns deles chegavam à Estação Central de Berlim pedindo a sopa de lentilhas dos brasileiros, que aparentemente foi uma grande sensação.
 
 Todos esperamos que a paz chegue em breve e que todas essas famílias possam voltar para casa em segurança para suas vidas normais, o que pode incluir reconstrução, e pode ser tudo menos normal por um bom tempo. Mas, daqui a dez, vinte ou mesmo cinquenta anos, alguém se lembrará daquela sopa quente de lentilhas que os recebeu ao chegar a Berlim, e isso me conforta que fizemos nossa pequena parte em todo o esforço pela paz.
+
+## Agradecimentos especiais
+
+Gostaria de agradecer a todos que ajudaram até agora, doando qualquer quantia em dinheiro, tempo, materiais, utensílios, ingredientes e divulgando esta iniciativa. Isso não seria possível sem cada um de vocês.
+
+## Contribuindo
+
+Se você estiver interessado em se juntar a nós, verifique [aqui a postagem do Instagram da minha esposa](https://www.instagram.com/p/CaptwuiM9pU/) com todas as informações sobre como ajudar. Sobre contribuir para esta página, por favor [abra um pull request aqui](https://github.com/wernerpm/wernerpm.github.io/blob/master/marmitas/marmitas.pt.md).

@@ -70,6 +70,7 @@ Yields 70 to 75 portions of 450ml
 * Vegetable oil to sauté
 
 #### Instructions
+
 * Sauté the onions and peppers on the vegetable oil for a few minutes, until soft but still moist
 * Mix up the canned tomatoes and Spices
 * Move to the big cooker
@@ -79,6 +80,23 @@ Yields 70 to 75 portions of 450ml
 * Taste spices and salt, adjust to taste
 * Serve
 
+## Production Numbers
+
+| Date | Meals |
+|------|-------|
+| 2022-03-03 | 86 |
+| 2022-03-04 | 415 |
+| 2022-03-05 | 596 |
+| 2022-03-06 | 411 |
+| 2022-03-07 | 703 |
+| 2022-03-08 | 675 |
+| 2022-03-09 | 680 |
+| 2022-03-10 | 645 |
+| 2022-03-11 | 418 |
+| 2022-03-15 | 260 |
+| 2022-04-08 | 302 |
+| **Total** | **5.191** |
+
 ## Media Library
 
 [Media Library](media-library.html)
@@ -87,16 +105,24 @@ Yields 70 to 75 portions of 450ml
 
 [Accounting (in Portuguese)](accounting.html)
 
-## Special Thanks
-
-[Special Thanks](special-thanks.html)
-
 ## Future
 
 With all of these able hands ready to work and help, it would be a shame to stop there. We'll keep trying our best to continue the project, cooking for whomever is needing a warm meal in their bellies, being of Ukrainian origin, or from anywhere else in the world.
+
+## Update (April 2022)
+
+There's a center in Berlin called Moabit Hilft, hosting several families of Ukrainian refugees, and they told us that about 600 weekly portions of soup would be welcomed in there. So, we went back to cooking as of Friday, April 8th.
 
 ## Legacy
 
 We heard a couple of heartwarming stories throughout the days, like how our soup was very good and welcome, the refugees and even volunteers really liked it, and it would even be preferred compared to the professional catering. But a very simple but strong story from the very last delivery day stuck with most of us. Some of the incoming refugees had a proper mobile connection and were in touch with each other on the way to Berlin, through social media and Telegram groups. We were told that some of them would arrive to the Berlin Central Station asking for the Lentil soup from the Brazilians, which was apparently a big sensation.
 
 We all hope that peace will come soon, and that all of these families can return safely home for their regular lives, which might include rebuilding, and it might be anything but regular for quite some time. But, in ten, twenty or even fifty years time, someone will remember about that warm lentil soup that was welcoming them when arriving at Berlin, and that gives me comfort that we were able to do our tiny little part in the whole effort for peace and relief.
+
+## Special Thanks
+
+I would like to thank everybody who helped so far, by donating any amount of cash, time, materials, utensils, ingredients and spreading the word about this initiative. this wouldn't be possible without each and every one of you.
+
+## Contributing
+
+If you're interested in joining us, please check [here my wife's Instagram post](https://www.instagram.com/p/CaptwuiM9pU/) with all information about how to help. About contributing to this page, please [open a Pull request here](https://github.com/wernerpm/wernerpm.github.io/blob/master/marmitas/marmitas.en.md).
