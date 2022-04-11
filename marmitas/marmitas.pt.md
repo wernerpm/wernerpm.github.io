@@ -73,7 +73,7 @@ Rende 70 a 75 porções de 450ml
 
 * Refogue as cebolas e os pimentões no óleo vegetal por alguns minutos, até ficarem macios, mas ainda úmidos
 * Misture os tomates enlatados e as especiarias
-* Mude para a grande panela
+* Mude para a panela grande
 * Junte as batatas e as cenouras, cubra com água, espere ferver
 * Adicione as lentilhas
 * Cozinhe por uma hora, adicione água quente quando necessário
